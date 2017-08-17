@@ -1,0 +1,4 @@
+AuthName "Admin Only"
+AuthType Basic
+AuthUserFile D:\wamp\www\github\htaccess-demo/.htpasswd
+require valid-user
